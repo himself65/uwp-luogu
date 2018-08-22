@@ -1,0 +1,14 @@
+﻿/.vs
+/.vscode
+/luogu-uwp/bin
+/luogu-uwp/BundleArtifacts
+/luogu-uwp/obj
+/luogu-uwp/AppPackages
+/luogu-uwp/Package.StoreAssociation.xml
+/luogu-uwp/luogu-uwp_StoreKey.pfx
+/luogu-uwp/luogu-uwp.csproj.user
+/luogu-uwp/_pkginfo.txt
+/luogu-uwp/Properties
+/luogu-uwp/luogu-uwp_TemporaryKey.pfx
+/luogu-uwp/Package.appxmanifest
+/luogu-uwp/Assets
